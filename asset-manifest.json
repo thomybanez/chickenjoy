@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/chickenjoy/static/css/main.073c9b0a.css",
-    "main.js": "/chickenjoy/static/js/main.ffc09d56.js",
+    "main.js": "/chickenjoy/static/js/main.27b70bff.js",
     "static/js/787.799e847c.chunk.js": "/chickenjoy/static/js/787.799e847c.chunk.js",
+    "static/media/2pc.webp": "/chickenjoy/static/media/2pc.9dff20553fe808558509.webp",
     "static/media/logo.svg": "/chickenjoy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/chickenjoy/index.html",
     "main.073c9b0a.css.map": "/chickenjoy/static/css/main.073c9b0a.css.map",
-    "main.ffc09d56.js.map": "/chickenjoy/static/js/main.ffc09d56.js.map",
+    "main.27b70bff.js.map": "/chickenjoy/static/js/main.27b70bff.js.map",
     "787.799e847c.chunk.js.map": "/chickenjoy/static/js/787.799e847c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.ffc09d56.js"
+    "static/js/main.27b70bff.js"
   ]
 }
