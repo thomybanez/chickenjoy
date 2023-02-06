@@ -7,9 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        <p>This page is dedicated for die-hard chicken joy fans...</p>
         <a
           className="App-link"
           href="https://www.jollibeedelivery.com/menu/mc-chickenjoy"
