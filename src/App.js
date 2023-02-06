@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          LANGHAP SARAP CHICKEN JOY
         </a>
       </header>
     </div>
