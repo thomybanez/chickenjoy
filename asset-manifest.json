@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/chickenjoy/static/css/main.073c9b0a.css",
+    "main.js": "/chickenjoy/static/js/main.e97d0aca.js",
+    "static/js/787.799e847c.chunk.js": "/chickenjoy/static/js/787.799e847c.chunk.js",
+    "static/media/logo.svg": "/chickenjoy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/chickenjoy/index.html",
+    "main.073c9b0a.css.map": "/chickenjoy/static/css/main.073c9b0a.css.map",
+    "main.e97d0aca.js.map": "/chickenjoy/static/js/main.e97d0aca.js.map",
+    "787.799e847c.chunk.js.map": "/chickenjoy/static/js/787.799e847c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e97d0aca.js"
+  ]
+}
