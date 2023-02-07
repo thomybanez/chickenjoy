@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import chicken from '../src/component/css/image/2pc.webp'
+import fries from '../src/component/css/image/fries.png'
 
 function App() {
   return (
@@ -17,6 +18,14 @@ function App() {
           LANGHAP SARAP CHICKEN JOY
         </a>
         <img src={chicken} alt="chicken"/>
+        <a
+          className='App-link'
+          href='https://www.jollibeedelivery.com/menu/mc-fries-sides'
+          target="_blank"
+          rel="noopener noreferrer">
+            SAMAHAN PA NG FRIES
+        </a>
+        <img src={fries} alt="fries"/>
       </header>
     </div>
   );
