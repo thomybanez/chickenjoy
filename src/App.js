@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import chicken from '../src/component/css/image/2pc.webp'
 import fries from '../src/component/css/image/fries.png'
+import macaroni from '../src/component/css/image/macaroni.png'
 
 function App() {
   return (
@@ -23,9 +24,10 @@ function App() {
           href='https://www.jollibeedelivery.com/menu/mc-fries-sides'
           target="_blank"
           rel="noopener noreferrer">
-            SAMAHAN PA NG FRIES
+            SAMAHAN PA NG FRIES AT MACARONI
         </a>
         <img src={fries} alt="fries"/>
+        <img src={macaroni} alt="macaroni"/>
       </header>
     </div>
   );
