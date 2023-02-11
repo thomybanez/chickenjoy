@@ -1,19 +1,17 @@
 {
   "files": {
     "main.css": "/chickenjoy/static/css/main.5bbae7d2.css",
-    "main.js": "/chickenjoy/static/js/main.53f7aabb.js",
+    "main.js": "/chickenjoy/static/js/main.c7f6ca99.js",
     "static/js/787.799e847c.chunk.js": "/chickenjoy/static/js/787.799e847c.chunk.js",
     "static/media/2pc.webp": "/chickenjoy/static/media/2pc.9dff20553fe808558509.webp",
-    "static/media/macaroni.png": "/chickenjoy/static/media/macaroni.7831e97c958df9a5e4b5.png",
-    "static/media/fries.png": "/chickenjoy/static/media/fries.c8bfea373290d5fb5ab2.png",
     "static/media/logo.svg": "/chickenjoy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/chickenjoy/index.html",
     "main.5bbae7d2.css.map": "/chickenjoy/static/css/main.5bbae7d2.css.map",
-    "main.53f7aabb.js.map": "/chickenjoy/static/js/main.53f7aabb.js.map",
+    "main.c7f6ca99.js.map": "/chickenjoy/static/js/main.c7f6ca99.js.map",
     "787.799e847c.chunk.js.map": "/chickenjoy/static/js/787.799e847c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5bbae7d2.css",
-    "static/js/main.53f7aabb.js"
+    "static/js/main.c7f6ca99.js"
   ]
 }
