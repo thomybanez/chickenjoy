@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import chicken from '../src/component/css/image/2pc.webp'
+import SignUp from './component/SignUp';
 
 function App() {
   return (
@@ -16,7 +17,10 @@ function App() {
         >
           LANGHAP SARAP CHICKEN JOY
         </a>
+        <div style={{display:'flex'}}>
         <img src={chicken} alt="chicken"/>
+        <SignUp />
+        </div>
       </header>
     </div>
   );
